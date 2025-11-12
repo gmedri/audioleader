@@ -1,0 +1,91 @@
+[
+  {
+    "nome": "CM 800 USB",
+    "descricao": "PAINEL PARA ATIVAÇÃO DE CAIXAS PASSIVAS",
+    "especificacoes": {
+      "Potência Total em 4 OHMS": "800 Watts",
+      "Potência Total em 8 OHMS": "480 Watts",
+      "Resp. Frequência": "20 Hz – 20 kHz",
+      "D.H. Total": "0,05%",
+      "Slew Rate": "30 V/us",
+      "Impedância de Entrada": "20k ohms",
+      "Sensibilidade de Entrada": "775 mV",
+      "Alimentação": "127V/230V",
+      "Relação de Sinal Ruído": "95 dB",
+      "Fator de Amortecimento": "360/8 ohms",
+      "Proteção": "Térmica e Eletrônica",
+      "Dimensões Internas – Alt./Larg./Profund.": "415x210x100",
+      "Dimensões Externas – Alt./Larg.": "445x240mm",
+      "Consumo*": "1100 Watts",
+      "Recursos": "Saída de Linha / Saída de Alto-Falante (8 Ohms)",
+      "Garantia**": "12 Meses"
+    }
+  },
+  {
+    "nome": "CA 800",
+    "descricao": "PAINEL PARA ATIVAÇÃO DE CAIXAS PASSIVAS",
+    "especificacoes": {
+      "Potência Total em 4 OHMS": "800 Watts",
+      "Potência Total em 8 OHMS": "480 Watts",
+      "Resp. Frequência": "20 Hz – 20 kHz",
+      "D.H. Total": "0,05%",
+      "Slew Rate": "30 V/us",
+      "Impedância de Entrada": "20k ohms",
+      "Sensibilidade de Entrada": "775 mV",
+      "Alimentação": "127V/230V",
+      "Relação de Sinal Ruído": "95 dB",
+      "Fator de Amortecimento": "360/8 ohms",
+      "Proteção": "Térmica e Eletrônica",
+      "Dimensões Internas – Alt./Larg./Profund.": "370x210x100mm",
+      "Dimensões Externas – Alt./Larg.": "400x240mm",
+      "Consumo*": "1100 Watts",
+      "Recursos": "Saída de Linha / Saída de Alto-Falante (8 Ohms)",
+      "Garantia**": "12 Meses"
+    }
+  },
+  {
+    "nome": "AL 1200 SUB",
+    "descricao": "PAINEL PARA ATIVAÇÃO DE CAIXAS PASSIVAS",
+    "especificacoes": {
+      "Potência Total em 4 OHMS": "1200 Watts",
+      "Potência Total em 8 OHMS": "720 Watts",
+      "Resp. Frequência": "20 Hz – 180 Hz",
+      "D.H. Total": "0,05%",
+      "Slew Rate": "25 V/us",
+      "Impedância de Entrada": "20k ohms",
+      "Sensibilidade de Entrada": "775 mV",
+      "Alimentação": "127V/230V",
+      "Relação de Sinal Ruído": "95 dB",
+      "Fator de Amortecimento": "1000/8 ohms",
+      "Proteção": "Térmica e Eletrônica",
+      "Peso*": "13,6 kg",
+      "Dimensões Internas – Alt./Larg./Profund.": "345x275x110mm",
+      "Dimensões Externas – Alt./Larg.": "390x320mm",
+      "Consumo**": "1800 Watts",
+      "Recursos": "Auto-Rampa / Limiter / Tempo de DC / Entrada Balanceada / Saída de Linha / Saída de Alto-Falante (8 Ohms)",
+      "Garantia***": "12 Meses"
+    }
+  },
+  {
+    "nome": "CA 600",
+    "descricao": "PAINEL PARA ATIVAÇÃO DE CAIXAS PASSIVAS",
+    "especificacoes": {
+      "Potência Total em 4 OHMS": "600 Watts",
+      "Potência Total em 8 OHMS": "360 Watts",
+      "Resp. Frequência": "20 Hz – 20 kHz",
+      "D.H. Total": "0,05%",
+      "Slew Rate": "30 V/us",
+      "Impedância de Entrada": "20k ohms",
+      "Sensibilidade de Entrada": "775 mV",
+      "Alimentação": "127V/230V",
+      "Relação de Sinal Ruído": "95 dB",
+      "Fator de Amortecimento": "360/8 ohms",
+      "Proteção": "Térmica e Eletrônica",
+      "Dimensões Internas – Alt./Larg./Profund.": "370x210x100mm",
+      "Dimensões Externas – Alt./Larg.": "400x240mm",
+      "Consumo*": "820 Watts",
+      "Recursos": "Saída de Linha / Saída de Alto-Falante (8 Ohms)",
+      "Garantia**": "12 Meses"
+    }
+  }
+]

@@ -1,0 +1,1569 @@
+[
+  {
+    "id": 1,
+    "slug": "al-1-0",
+    "nome": "AL 1.0",
+    "linha": "AL 2 Ohms",
+    "descricao": "Amplificador de potência profissional da linha AL 2 Ohms, com 1000 Watts de potência total, ideal para sistemas de sonorização profissional que exigem alta performance e confiabilidade.",
+    "potencias": {
+      "2ohms": "1000 Watts (500W por canal)",
+      "4ohms": "600 Watts (300W por canal)",
+      "8ohms": "360 Watts (180W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "730/8 ohms"
+    },
+    "dimensoes": "115x485x410mm",
+    "peso": "17,4 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-1-0.jpg",
+    "popularidade": 95,
+    "dataLancamento": "2023-01-15",
+    "preco": 2890
+  },
+  {
+    "id": 2,
+    "slug": "al-1-2",
+    "nome": "AL 1.2",
+    "linha": "AL 2 Ohms",
+    "descricao": "Amplificador de potência profissional da linha AL 2 Ohms, com 1200 Watts de potência total, ideal para sistemas de sonorização profissional que exigem alta performance e confiabilidade.",
+    "potencias": {
+      "2ohms": "1200 Watts (600W por canal)",
+      "4ohms": "720 Watts (360W por canal)",
+      "8ohms": "432 Watts (216W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "980/8 ohms"
+    },
+    "dimensoes": "115x485x410mm",
+    "peso": "18,480 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-1-2.jpg",
+    "popularidade": 92,
+    "dataLancamento": "2023-02-20",
+    "preco": 3190
+  },
+  {
+    "id": 3,
+    "slug": "al-1-2k",
+    "nome": "AL 1.2K",
+    "linha": "ALK 1,3 Ohms",
+    "descricao": "Amplificador de potência profissional da linha ALK 1,3 Ohms, com 1200 Watts de potência total, projetado para aplicações de alta demanda com impedância otimizada para máximo desempenho.",
+    "potencias": {
+      "1.3ohms": "1200 Watts (600W por canal)",
+      "2ohms": "900 Watts (450W por canal)",
+      "4ohms": "550 Watts (275W por canal)",
+      "8ohms": "330 Watts (165W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "115x485x410mm",
+    "peso": "19 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-1-2k.jpg",
+    "popularidade": 88,
+    "dataLancamento": "2023-03-10",
+    "preco": 3490
+  },
+  {
+    "id": 4,
+    "slug": "al-1-5",
+    "nome": "AL 1.5",
+    "linha": "AL 2 Ohms",
+    "descricao": "Amplificador de potência profissional da linha AL 2 Ohms, com 1500 Watts de potência total, ideal para sistemas de sonorização profissional que exigem alta performance e confiabilidade.",
+    "potencias": {
+      "2ohms": "1500 Watts (750W por canal)",
+      "4ohms": "900 Watts (450W por canal)",
+      "8ohms": "540 Watts (270W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "850/8 ohms"
+    },
+    "dimensoes": "115x485x410mm",
+    "peso": "19,8 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-1-5.jpg",
+    "popularidade": 90,
+    "dataLancamento": "2023-04-05",
+    "preco": 3790
+  },
+  {
+    "id": 5,
+    "slug": "al-10-0",
+    "nome": "AL 10.0",
+    "linha": "AL 2 Ohms",
+    "descricao": "Amplificador de potência profissional da linha AL 2 Ohms, com 10000 Watts de potência total, ideal para sistemas de sonorização profissional que exigem alta performance e confiabilidade.",
+    "potencias": {
+      "2ohms": "10000 Watts (5000W por canal)",
+      "4ohms": "6000 Watts (3000W por canal)",
+      "8ohms": "3600 Watts (1800W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "43 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-10-0.jpg",
+    "popularidade": 98,
+    "dataLancamento": "2023-05-15",
+    "preco": 12990
+  },
+  {
+    "id": 6,
+    "slug": "al-1000-inbox",
+    "nome": "AL 1000 INBOX",
+    "linha": "INBOX",
+    "descricao": "Painel ativo para ativação de caixas passivas com 1000 Watts de potência, solução completa para transformar sua caixa passiva em um sistema ativo de alto desempenho.",
+    "potencias": {
+      "4ohms": "1000 Watts",
+      "8ohms": "600 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "730/8 ohms"
+    },
+    "dimensoes": "Internas: 345x275x110mm / Externas: 390x320mm",
+    "peso": "13 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Saída de Linha", "Saída de Alto-Falante (8 Ohms)"],
+    "garantia": "12 meses",
+    "imagem": "al-1000-inbox.jpg",
+    "popularidade": 75,
+    "dataLancamento": "2022-08-20",
+    "preco": 2190
+  },
+  {
+    "id": 7,
+    "slug": "al-1000-inbox-usb",
+    "nome": "AL 1000 INBOX USB",
+    "linha": "INBOX",
+    "descricao": "Painel ativo para ativação de caixas passivas com 1000 Watts de potência e entrada USB com player MP3 integrado, oferecendo versatilidade e praticidade para seus eventos.",
+    "potencias": {
+      "4ohms": "1000 Watts",
+      "8ohms": "600 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "730/8 ohms"
+    },
+    "dimensoes": "Internas: 345x275x110mm / Externas: 390x320mm",
+    "peso": "13,2 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Saída de Linha", "Saída de Alto-Falante", "Entrada USB", "Player MP3"],
+    "garantia": "12 meses",
+    "imagem": "al-1000-inbox-usb.jpg",
+    "popularidade": 78,
+    "dataLancamento": "2022-09-10",
+    "preco": 2490
+  },
+  {
+    "id": 8,
+    "slug": "al-1000-mixer",
+    "nome": "AL 1000 MIXER",
+    "linha": "INBOX",
+    "descricao": "Painel ativo para ativação de caixas passivas com 1000 Watts de potência e mixer 4 canais integrado com equalização de 3 bandas, solução completa para eventos e instalações.",
+    "potencias": {
+      "4ohms": "1000 Watts",
+      "8ohms": "600 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "730/8 ohms"
+    },
+    "dimensoes": "Internas: 345x275x110mm / Externas: 390x320mm",
+    "peso": "13,5 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Mixer 4 Canais", "Saída de Linha", "Saída de Alto-Falante", "Controle de Volume", "EQ 3 Bandas"],
+    "garantia": "12 meses",
+    "imagem": "al-1000-mixer.jpg",
+    "popularidade": 80,
+    "dataLancamento": "2022-10-05",
+    "preco": 2690
+  },
+  {
+    "id": 9,
+    "slug": "al-1000-sub",
+    "nome": "AL 1000 SUB",
+    "linha": "INBOX",
+    "descricao": "Painel ativo específico para subwoofer com 1000 Watts de potência, controles de volume, fase e frequência de corte ajustável para otimização perfeita de graves.",
+    "potencias": {
+      "4ohms": "1000 Watts",
+      "8ohms": "600 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 180 Hz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "Internas: 345x275x110mm / Externas: 390x320mm",
+    "peso": "13 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Saída de Linha", "Saída de Alto-Falante", "Controle de Volume", "Ajuste de Fase", "Frequência de Corte Ajustável"],
+    "garantia": "12 meses",
+    "imagem": "al-1000-sub.jpg",
+    "popularidade": 82,
+    "dataLancamento": "2022-09-15",
+    "preco": 2390
+  },
+  {
+    "id": 10,
+    "slug": "al-10k",
+    "nome": "AL 10K",
+    "linha": "ALK 1,3 Ohms",
+    "descricao": "Amplificador de potência profissional da linha ALK 1,3 Ohms, com 10000 Watts de potência total, projetado para aplicações de alta demanda com impedância otimizada para máximo desempenho.",
+    "potencias": {
+      "1.3ohms": "10000 Watts (5000W por canal)",
+      "2ohms": "7400 Watts (3700W por canal)",
+      "4ohms": "4800 Watts (2400W por canal)",
+      "8ohms": "2880 Watts (1440W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "41 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-10k.jpg",
+    "popularidade": 96,
+    "dataLancamento": "2023-11-10",
+    "preco": 13990
+  },
+  {
+    "id": 11,
+    "slug": "al-12-0",
+    "nome": "AL 12.0",
+    "linha": "AL 2 Ohms",
+    "descricao": "Amplificador de potência profissional da linha AL 2 Ohms, com 12000 Watts de potência total, ideal para sistemas de sonorização profissional que exigem alta performance e confiabilidade.",
+    "potencias": {
+      "2ohms": "12000 Watts (6000W por canal)",
+      "4ohms": "7200 Watts (3600W por canal)",
+      "8ohms": "4320 Watts (2160W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "45 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-12-0.jpg",
+    "popularidade": 97,
+    "dataLancamento": "2023-12-01",
+    "preco": 14990
+  },
+  {
+    "id": 12,
+    "slug": "al-1200-sub",
+    "nome": "AL 1200 SUB",
+    "linha": "INBOX",
+    "descricao": "Painel ativo específico para subwoofer com 1200 Watts de potência, controles de volume, fase e frequência de corte ajustável para otimização perfeita de graves.",
+    "potencias": {
+      "4ohms": "1200 Watts",
+      "8ohms": "720 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 180 Hz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "Internas: 345x275x110mm / Externas: 390x320mm",
+    "peso": "13,5 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Saída de Linha", "Controle de Volume", "Ajuste de Fase", "Frequência de Corte Ajustável"],
+    "garantia": "12 meses",
+    "imagem": "al-1200-sub.jpg",
+    "popularidade": 83,
+    "dataLancamento": "2022-10-20",
+    "preco": 2590
+  },
+  {
+    "id": 13,
+    "slug": "al-12k",
+    "nome": "AL 12K",
+    "linha": "ALK 1,3 Ohms",
+    "descricao": "Amplificador de potência profissional da linha ALK 1,3 Ohms, com 12000 Watts de potência total, projetado para aplicações de alta demanda com impedância otimizada para máximo desempenho.",
+    "potencias": {
+      "1.3ohms": "12000 Watts (6000W por canal)",
+      "2ohms": "8880 Watts (4440W por canal)",
+      "4ohms": "5760 Watts (2880W por canal)",
+      "8ohms": "3456 Watts (1728W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "46 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-12k.jpg",
+    "popularidade": 95,
+    "dataLancamento": "2023-12-15",
+    "preco": 15990
+  },
+  {
+    "id": 14,
+    "slug": "al-14-0",
+    "nome": "AL 14.0",
+    "linha": "AL 2 Ohms",
+    "descricao": "Amplificador de potência profissional da linha AL 2 Ohms, com 14000 Watts de potência total, ideal para sistemas de sonorização profissional que exigem alta performance e confiabilidade.",
+    "potencias": {
+      "2ohms": "14000 Watts (7000W por canal)",
+      "4ohms": "8400 Watts (4200W por canal)",
+      "8ohms": "5040 Watts (2520W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "47 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-14-0.jpg",
+    "popularidade": 96,
+    "dataLancamento": "2024-01-10",
+    "preco": 16990
+  },
+  {
+    "id": 15,
+    "slug": "al-14k",
+    "nome": "AL 14K",
+    "linha": "ALK 1,3 Ohms",
+    "descricao": "Amplificador de potência profissional da linha ALK 1,3 Ohms, com 14000 Watts de potência total, projetado para aplicações de alta demanda com impedância otimizada para máximo desempenho.",
+    "potencias": {
+      "1.3ohms": "14000 Watts (7000W por canal)",
+      "2ohms": "10360 Watts (5180W por canal)",
+      "4ohms": "6720 Watts (3360W por canal)",
+      "8ohms": "4032 Watts (2016W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "48 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-14k.jpg",
+    "popularidade": 94,
+    "dataLancamento": "2024-01-20",
+    "preco": 17990
+  },
+  {
+    "id": 16,
+    "slug": "al-1600-sub",
+    "nome": "AL 1600 SUB",
+    "linha": "INBOX",
+    "descricao": "Painel ativo específico para subwoofer com 1600 Watts de potência, controles de volume, fase e frequência de corte ajustável para otimização perfeita de graves.",
+    "potencias": {
+      "4ohms": "1600 Watts",
+      "8ohms": "960 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 180 Hz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "Internas: 345x275x110mm / Externas: 390x320mm",
+    "peso": "14 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Saída de Linha", "Controle de Volume", "Ajuste de Fase", "Frequência de Corte Ajustável"],
+    "garantia": "12 meses",
+    "imagem": "al-1600-sub.jpg",
+    "popularidade": 84,
+    "dataLancamento": "2022-11-05",
+    "preco": 2790
+  },
+  {
+    "id": 17,
+    "slug": "al-2-0",
+    "nome": "AL 2.0",
+    "linha": "AL 2 Ohms",
+    "descricao": "Amplificador de potência profissional da linha AL 2 Ohms, com 2000 Watts de potência total, ideal para sistemas de sonorização profissional que exigem alta performance e confiabilidade.",
+    "potencias": {
+      "2ohms": "2000 Watts (1000W por canal)",
+      "4ohms": "1200 Watts (600W por canal)",
+      "8ohms": "720 Watts (360W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "900/8 ohms"
+    },
+    "dimensoes": "115x485x410mm",
+    "peso": "21 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-2-0.jpg",
+    "popularidade": 93,
+    "dataLancamento": "2023-06-10",
+    "preco": 4290
+  },
+  {
+    "id": 18,
+    "slug": "al-2k",
+    "nome": "AL 2K",
+    "linha": "ALK 1,3 Ohms",
+    "descricao": "Amplificador de potência profissional da linha ALK 1,3 Ohms, com 2000 Watts de potência total, projetado para aplicações de alta demanda com impedância otimizada para máximo desempenho.",
+    "potencias": {
+      "1.3ohms": "2000 Watts (1000W por canal)",
+      "2ohms": "1500 Watts (750W por canal)",
+      "4ohms": "920 Watts (460W por canal)",
+      "8ohms": "550 Watts (275W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "115x485x410mm",
+    "peso": "21,5 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-2k.jpg",
+    "popularidade": 90,
+    "dataLancamento": "2023-07-01",
+    "preco": 4790
+  },
+  {
+    "id": 19,
+    "slug": "al-3-0",
+    "nome": "AL 3.0",
+    "linha": "AL 2 Ohms",
+    "descricao": "Amplificador de potência profissional da linha AL 2 Ohms, com 3000 Watts de potência total, ideal para sistemas de sonorização profissional que exigem alta performance e confiabilidade.",
+    "potencias": {
+      "2ohms": "3000 Watts (1500W por canal)",
+      "4ohms": "1800 Watts (900W por canal)",
+      "8ohms": "1080 Watts (540W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "950/8 ohms"
+    },
+    "dimensoes": "115x485x410mm",
+    "peso": "25 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-3-0.jpg",
+    "popularidade": 94,
+    "dataLancamento": "2023-08-20",
+    "preco": 5490
+  },
+  {
+    "id": 20,
+    "slug": "al-3k",
+    "nome": "AL 3K",
+    "linha": "ALK 1,3 Ohms",
+    "descricao": "Amplificador de potência profissional da linha ALK 1,3 Ohms, com 3000 Watts de potência total, projetado para aplicações de alta demanda com impedância otimizada para máximo desempenho.",
+    "potencias": {
+      "1.3ohms": "3000 Watts (1500W por canal)",
+      "2ohms": "2250 Watts (1125W por canal)",
+      "4ohms": "1380 Watts (690W por canal)",
+      "8ohms": "825 Watts (412W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "115x485x410mm",
+    "peso": "26 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-3k.jpg",
+    "popularidade": 91,
+    "dataLancamento": "2023-09-05",
+    "preco": 5990
+  },
+  {
+    "id": 21,
+    "slug": "al-4-0",
+    "nome": "AL 4.0",
+    "linha": "AL 2 Ohms",
+    "descricao": "Amplificador de potência profissional da linha AL 2 Ohms, com 4000 Watts de potência total, ideal para sistemas de sonorização profissional que exigem alta performance e confiabilidade.",
+    "potencias": {
+      "2ohms": "4000 Watts (2000W por canal)",
+      "4ohms": "2400 Watts (1200W por canal)",
+      "8ohms": "1440 Watts (720W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "29 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-4-0.jpg",
+    "popularidade": 95,
+    "dataLancamento": "2023-09-15",
+    "preco": 6490
+  },
+  {
+    "id": 22,
+    "slug": "al-5-0",
+    "nome": "AL 5.0",
+    "linha": "AL 2 Ohms",
+    "descricao": "Amplificador de potência profissional da linha AL 2 Ohms, com 5000 Watts de potência total, ideal para sistemas de sonorização profissional que exigem alta performance e confiabilidade.",
+    "potencias": {
+      "2ohms": "5000 Watts (2500W por canal)",
+      "4ohms": "3000 Watts (1500W por canal)",
+      "8ohms": "1800 Watts (900W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "37,5 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-5-0.jpg",
+    "popularidade": 97,
+    "dataLancamento": "2023-10-10",
+    "preco": 7990
+  },
+  {
+    "id": 23,
+    "slug": "al-5k",
+    "nome": "AL 5K",
+    "linha": "ALK 1,3 Ohms",
+    "descricao": "Amplificador de potência profissional da linha ALK 1,3 Ohms, com 5000 Watts de potência total, projetado para aplicações de alta demanda com impedância otimizada para máximo desempenho.",
+    "potencias": {
+      "1.3ohms": "5000 Watts (2500W por canal)",
+      "2ohms": "3600 Watts (1800W por canal)",
+      "4ohms": "2400 Watts (1200W por canal)",
+      "8ohms": "1440 Watts (720W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "36 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-5k.jpg",
+    "popularidade": 95,
+    "dataLancamento": "2023-10-25",
+    "preco": 8990
+  },
+  {
+    "id": 24,
+    "slug": "al-6-4",
+    "nome": "AL 6.4",
+    "linha": "AL 2 Ohms",
+    "descricao": "Amplificador de potência profissional da linha AL 2 Ohms, com 6400 Watts de potência total, ideal para sistemas de sonorização profissional que exigem alta performance e confiabilidade.",
+    "potencias": {
+      "2ohms": "6400 Watts (3200W por canal)",
+      "4ohms": "3840 Watts (1920W por canal)",
+      "8ohms": "2304 Watts (1152W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "38 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-6-4.jpg",
+    "popularidade": 93,
+    "dataLancamento": "2023-11-01",
+    "preco": 9490
+  },
+  {
+    "id": 25,
+    "slug": "al-6-4k",
+    "nome": "AL 6.4K",
+    "linha": "ALK 1,3 Ohms",
+    "descricao": "Amplificador de potência profissional da linha ALK 1,3 Ohms, com 6400 Watts de potência total, projetado para aplicações de alta demanda com impedância otimizada para máximo desempenho.",
+    "potencias": {
+      "1.3ohms": "6400 Watts (3200W por canal)",
+      "2ohms": "4608 Watts (2304W por canal)",
+      "4ohms": "3072 Watts (1536W por canal)",
+      "8ohms": "1843 Watts (921W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "38,5 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-6-4k.jpg",
+    "popularidade": 92,
+    "dataLancamento": "2023-11-15",
+    "preco": 10490
+  },
+  {
+    "id": 26,
+    "slug": "al-8-0",
+    "nome": "AL 8.0",
+    "linha": "AL 2 Ohms",
+    "descricao": "Amplificador de potência profissional da linha AL 2 Ohms, com 8000 Watts de potência total, ideal para sistemas de sonorização profissional que exigem alta performance e confiabilidade.",
+    "potencias": {
+      "2ohms": "8000 Watts (4000W por canal)",
+      "4ohms": "4800 Watts (2400W por canal)",
+      "8ohms": "2880 Watts (1440W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "40 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-8-0.jpg",
+    "popularidade": 96,
+    "dataLancamento": "2023-10-20",
+    "preco": 10990
+  },
+  {
+    "id": 27,
+    "slug": "al-8k",
+    "nome": "AL 8K",
+    "linha": "ALK 1,3 Ohms",
+    "descricao": "Amplificador de potência profissional da linha ALK 1,3 Ohms, com 8000 Watts de potência total, projetado para aplicações de alta demanda com impedância otimizada para máximo desempenho.",
+    "potencias": {
+      "1.3ohms": "8000 Watts (4000W por canal)",
+      "2ohms": "5920 Watts (2960W por canal)",
+      "4ohms": "3840 Watts (1920W por canal)",
+      "8ohms": "2304 Watts (1152W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "25 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "39 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "al-8k.jpg",
+    "popularidade": 94,
+    "dataLancamento": "2023-10-30",
+    "preco": 11990
+  },
+  {
+    "id": 28,
+    "slug": "als-1000",
+    "nome": "ALS 1000",
+    "linha": "ALS 4 Ohms",
+    "descricao": "Amplificador de potência compacto da linha ALS 4 Ohms, entregando 1000 Watts de potência total, perfeito para instalações fixas e eventos de médio porte.",
+    "potencias": {
+      "4ohms": "1000 Watts (500W por canal)",
+      "8ohms": "600 Watts (300W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "730 /8 ohms"
+    },
+    "dimensoes": "80x485x385mm",
+    "peso": "9,2 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "als-1000.jpg",
+    "popularidade": 86,
+    "dataLancamento": "2023-01-20",
+    "preco": 2690
+  },
+  {
+    "id": 29,
+    "slug": "als-1200",
+    "nome": "ALS 1200",
+    "linha": "ALS 4 Ohms",
+    "descricao": "Amplificador de potência compacto da linha ALS 4 Ohms, entregando 1200 Watts de potência total, perfeito para instalações fixas e eventos de médio porte.",
+    "potencias": {
+      "4ohms": "1200 Watts (600W por canal)",
+      "8ohms": "720 Watts (360W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "800/8 ohms"
+    },
+    "dimensoes": "80x485x385mm",
+    "peso": "10 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "als-1200.jpg",
+    "popularidade": 84,
+    "dataLancamento": "2023-02-05",
+    "preco": 2990
+  },
+  {
+    "id": 30,
+    "slug": "als-1500",
+    "nome": "ALS 1500",
+    "linha": "ALS 4 Ohms",
+    "descricao": "Amplificador de potência compacto da linha ALS 4 Ohms, entregando 1500 Watts de potência total, perfeito para instalações fixas e eventos de médio porte.",
+    "potencias": {
+      "4ohms": "1500 Watts (750W por canal)",
+      "8ohms": "900 Watts (450W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "850/8 ohms"
+    },
+    "dimensoes": "80x485x385mm",
+    "peso": "11 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "als-1500.jpg",
+    "popularidade": 85,
+    "dataLancamento": "2023-02-20",
+    "preco": 3290
+  },
+  {
+    "id": 31,
+    "slug": "als-2000",
+    "nome": "ALS 2000",
+    "linha": "ALS 4 Ohms",
+    "descricao": "Amplificador de potência compacto da linha ALS 4 Ohms, entregando 2000 Watts de potência total, perfeito para instalações fixas e eventos de médio porte.",
+    "potencias": {
+      "4ohms": "2000 Watts (1000W por canal)",
+      "8ohms": "1200 Watts (600W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "80x485x385mm",
+    "peso": "12 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "als-2000.jpg",
+    "popularidade": 88,
+    "dataLancamento": "2023-03-10",
+    "preco": 3990
+  },
+  {
+    "id": 32,
+    "slug": "als-300",
+    "nome": "ALS 300",
+    "linha": "ALS 4 Ohms",
+    "descricao": "Amplificador de potência compacto da linha ALS 4 Ohms, entregando 300 Watts de potência total, perfeito para instalações fixas e eventos de médio porte.",
+    "potencias": {
+      "4ohms": "300 Watts (150W por canal)",
+      "8ohms": "180 Watts (90W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "600/8 ohms"
+    },
+    "dimensoes": "80x485x385mm",
+    "peso": "7 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "als-300.jpg",
+    "popularidade": 78,
+    "dataLancamento": "2023-01-05",
+    "preco": 1690
+  },
+  {
+    "id": 33,
+    "slug": "als-3000",
+    "nome": "ALS 3000",
+    "linha": "ALS 4 Ohms",
+    "descricao": "Amplificador de potência compacto da linha ALS 4 Ohms, entregando 3000 Watts de potência total, perfeito para instalações fixas e eventos de médio porte.",
+    "potencias": {
+      "4ohms": "3000 Watts (1500W por canal)",
+      "8ohms": "1800 Watts (900W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "115x485x410mm",
+    "peso": "20 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "als-3000.jpg",
+    "popularidade": 90,
+    "dataLancamento": "2023-04-15",
+    "preco": 5490
+  },
+  {
+    "id": 34,
+    "slug": "als-400",
+    "nome": "ALS 400",
+    "linha": "ALS 4 Ohms",
+    "descricao": "Amplificador de potência compacto da linha ALS 4 Ohms, entregando 400 Watts de potência total, perfeito para instalações fixas e eventos de médio porte.",
+    "potencias": {
+      "4ohms": "400 Watts (200W por canal)",
+      "8ohms": "240 Watts (120W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "650/8 ohms"
+    },
+    "dimensoes": "80x485x385mm",
+    "peso": "7,5 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "als-400.jpg",
+    "popularidade": 80,
+    "dataLancamento": "2023-01-10",
+    "preco": 1890
+  },
+  {
+    "id": 35,
+    "slug": "als-4000",
+    "nome": "ALS 4000",
+    "linha": "ALS 4 Ohms",
+    "descricao": "Amplificador de potência compacto da linha ALS 4 Ohms, entregando 4000 Watts de potência total, perfeito para instalações fixas e eventos de médio porte.",
+    "potencias": {
+      "4ohms": "4000 Watts (2000W por canal)",
+      "8ohms": "2400 Watts (1200W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "115x485x410mm",
+    "peso": "24 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "als-4000.jpg",
+    "popularidade": 92,
+    "dataLancamento": "2023-05-20",
+    "preco": 6990
+  },
+  {
+    "id": 36,
+    "slug": "als-5000",
+    "nome": "ALS 5000",
+    "linha": "ALS 4 Ohms",
+    "descricao": "Amplificador de potência compacto da linha ALS 4 Ohms, entregando 5000 Watts de potência total, perfeito para instalações fixas e eventos de médio porte.",
+    "potencias": {
+      "4ohms": "5000 Watts (2500W por canal)",
+      "8ohms": "3000 Watts (1500W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "150x485x520mm",
+    "peso": "32 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "als-5000.jpg",
+    "popularidade": 93,
+    "dataLancamento": "2023-06-15",
+    "preco": 8490
+  },
+  {
+    "id": 37,
+    "slug": "als-600",
+    "nome": "ALS 600",
+    "linha": "ALS 4 Ohms",
+    "descricao": "Amplificador de potência compacto da linha ALS 4 Ohms, entregando 600 Watts de potência total, perfeito para instalações fixas e eventos de médio porte.",
+    "potencias": {
+      "4ohms": "600 Watts (300W por canal)",
+      "8ohms": "360 Watts (180W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "680/8 ohms"
+    },
+    "dimensoes": "80x485x385mm",
+    "peso": "8 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "als-600.jpg",
+    "popularidade": 82,
+    "dataLancamento": "2023-01-15",
+    "preco": 2190
+  },
+  {
+    "id": 38,
+    "slug": "als-800",
+    "nome": "ALS 800",
+    "linha": "ALS 4 Ohms",
+    "descricao": "Amplificador de potência compacto da linha ALS 4 Ohms, entregando 800 Watts de potência total, perfeito para instalações fixas e eventos de médio porte.",
+    "potencias": {
+      "4ohms": "800 Watts (400W por canal)",
+      "8ohms": "480 Watts (240W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "700/8 ohms"
+    },
+    "dimensoes": "80x485x385mm",
+    "peso": "8,5 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "als-800.jpg",
+    "popularidade": 83,
+    "dataLancamento": "2023-01-18",
+    "preco": 2490
+  },
+  {
+    "id": 39,
+    "slug": "als-quattro-2000-4c",
+    "nome": "ALS QUATTRO 2000/4C",
+    "linha": "ALS QUATTRO 4 Ohms",
+    "descricao": "Amplificador de potência 4 canais da linha ALS QUATTRO, com 2000 Watts de potência total distribuída em 4 canais independentes, ideal para sistemas multi-zona.",
+    "potencias": {
+      "4ohms": "2000 Watts (500W por canal - 4 canais)",
+      "8ohms": "1200 Watts (300W por canal - 4 canais)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "115x485x410mm",
+    "peso": "19 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "als-quattro-2000-4c.jpg",
+    "popularidade": 87,
+    "dataLancamento": "2023-07-10",
+    "preco": 4990
+  },
+  {
+    "id": 40,
+    "slug": "als-quattro-4000-4c",
+    "nome": "ALS QUATTRO 4000/4C",
+    "linha": "ALS QUATTRO 4 Ohms",
+    "descricao": "Amplificador de potência 4 canais da linha ALS QUATTRO, com 4000 Watts de potência total distribuída em 4 canais independentes, ideal para sistemas multi-zona.",
+    "potencias": {
+      "4ohms": "4000 Watts (1000W por canal - 4 canais)",
+      "8ohms": "2400 Watts (600W por canal - 4 canais)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "1,228 V",
+      "alimentacao": "127V/240V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "1000/8 ohms"
+    },
+    "dimensoes": "115x485x410mm",
+    "peso": "26 kg",
+    "recursos": ["Auto-Rampa", "Limiter", "Tempo de DC", "Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "24 meses",
+    "imagem": "als-quattro-4000-4c.jpg",
+    "popularidade": 89,
+    "dataLancamento": "2023-08-05",
+    "preco": 7990
+  },
+  {
+    "id": 41,
+    "slug": "ca-600",
+    "nome": "CA 600",
+    "linha": "INBOX",
+    "descricao": "Painel ativo para ativação de caixas passivas com 600 Watts de potência, solução completa para transformar sua caixa passiva em um sistema ativo de alto desempenho.",
+    "potencias": {
+      "4ohms": "600 Watts",
+      "8ohms": "360 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "360/8 ohms"
+    },
+    "dimensoes": "Internas: 370x210x100mm / Externas: 400x240mm",
+    "peso": "9 kg",
+    "recursos": ["Saída de Linha", "Saída de Alto-Falante (8 Ohms)"],
+    "garantia": "12 meses",
+    "imagem": "ca-600.jpg",
+    "popularidade": 74,
+    "dataLancamento": "2022-07-05",
+    "preco": 1790
+  },
+  {
+    "id": 42,
+    "slug": "ca-800",
+    "nome": "CA 800",
+    "linha": "INBOX",
+    "descricao": "Painel ativo para ativação de caixas passivas com 800 Watts de potência, solução completa para transformar sua caixa passiva em um sistema ativo de alto desempenho.",
+    "potencias": {
+      "4ohms": "800 Watts",
+      "8ohms": "480 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "420/8 ohms"
+    },
+    "dimensoes": "Internas: 370x210x100mm / Externas: 400x240mm",
+    "peso": "9,5 kg",
+    "recursos": ["Saída de Linha", "Saída de Alto-Falante (8 Ohms)"],
+    "garantia": "12 meses",
+    "imagem": "ca-800.jpg",
+    "popularidade": 76,
+    "dataLancamento": "2022-07-20",
+    "preco": 1990
+  },
+  {
+    "id": 43,
+    "slug": "cm-600",
+    "nome": "CM 600",
+    "linha": "INBOX",
+    "descricao": "Painel ativo para ativação de caixas passivas com 600 Watts de potência e mixer 4 canais integrado com equalização de 3 bandas, solução completa para eventos e instalações.",
+    "potencias": {
+      "4ohms": "600 Watts",
+      "8ohms": "360 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "360/8 ohms"
+    },
+    "dimensoes": "Internas: 370x210x100mm / Externas: 400x240mm",
+    "peso": "10 kg",
+    "recursos": ["Mixer 4 Canais", "Saída de Linha", "Saída de Alto-Falante", "EQ 3 Bandas"],
+    "garantia": "12 meses",
+    "imagem": "cm-600.jpg",
+    "popularidade": 77,
+    "dataLancamento": "2022-08-05",
+    "preco": 2090
+  },
+  {
+    "id": 44,
+    "slug": "cm-600-usb",
+    "nome": "CM 600 USB",
+    "linha": "INBOX",
+    "descricao": "Painel ativo para ativação de caixas passivas com 600 Watts de potência, mixer 4 canais integrado e entrada USB com player MP3, oferecendo versatilidade e praticidade.",
+    "potencias": {
+      "4ohms": "600 Watts",
+      "8ohms": "360 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "360/8 ohms"
+    },
+    "dimensoes": "Internas: 370x210x100mm / Externas: 400x240mm",
+    "peso": "10,2 kg",
+    "recursos": ["Mixer 4 Canais", "Saída de Linha", "Saída de Alto-Falante", "EQ 3 Bandas", "Entrada USB", "Player MP3"],
+    "garantia": "12 meses",
+    "imagem": "cm-600-usb.jpg",
+    "popularidade": 79,
+    "dataLancamento": "2022-08-20",
+    "preco": 2290
+  },
+  {
+    "id": 45,
+    "slug": "cm-800",
+    "nome": "CM 800",
+    "linha": "INBOX",
+    "descricao": "Painel ativo para ativação de caixas passivas com 800 Watts de potência e mixer 4 canais integrado com equalização de 3 bandas, solução completa para eventos e instalações.",
+    "potencias": {
+      "4ohms": "800 Watts",
+      "8ohms": "480 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "420/8 ohms"
+    },
+    "dimensoes": "Internas: 370x210x100mm / Externas: 400x240mm",
+    "peso": "10,5 kg",
+    "recursos": ["Mixer 4 Canais", "Saída de Linha", "Saída de Alto-Falante", "EQ 3 Bandas"],
+    "garantia": "12 meses",
+    "imagem": "cm-800.jpg",
+    "popularidade": 78,
+    "dataLancamento": "2022-09-05",
+    "preco": 2390
+  },
+  {
+    "id": 46,
+    "slug": "cm-800-usb",
+    "nome": "CM 800 USB",
+    "linha": "INBOX",
+    "descricao": "Painel ativo para ativação de caixas passivas com 800 Watts de potência, mixer 4 canais integrado e entrada USB com player MP3, oferecendo versatilidade e praticidade.",
+    "potencias": {
+      "4ohms": "800 Watts",
+      "8ohms": "480 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "420/8 ohms"
+    },
+    "dimensoes": "Internas: 370x210x100mm / Externas: 400x240mm",
+    "peso": "10,7 kg",
+    "recursos": ["Mixer 4 Canais", "Saída de Linha", "Saída de Alto-Falante", "EQ 3 Bandas", "Entrada USB", "Player MP3"],
+    "garantia": "12 meses",
+    "imagem": "cm-800-usb.jpg",
+    "popularidade": 80,
+    "dataLancamento": "2022-09-20",
+    "preco": 2590
+  },
+  {
+    "id": 47,
+    "slug": "sb-600",
+    "nome": "SB 600",
+    "linha": "INBOX",
+    "descricao": "Painel ativo específico para subwoofer com 600 Watts de potência, controles de volume, fase e frequência de corte ajustável para otimização perfeita de graves.",
+    "potencias": {
+      "4ohms": "600 Watts",
+      "8ohms": "360 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 180 Hz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "800/8 ohms"
+    },
+    "dimensoes": "Internas: 370x210x100mm / Externas: 400x240mm",
+    "peso": "9,8 kg",
+    "recursos": ["Saída de Linha", "Saída de Alto-Falante", "Controle de Volume", "Ajuste de Fase", "Frequência de Corte Ajustável"],
+    "garantia": "12 meses",
+    "imagem": "sb-600.jpg",
+    "popularidade": 75,
+    "dataLancamento": "2022-10-10",
+    "preco": 1990
+  },
+  {
+    "id": 48,
+    "slug": "sb-800",
+    "nome": "SB 800",
+    "linha": "INBOX",
+    "descricao": "Painel ativo específico para subwoofer com 800 Watts de potência, controles de volume, fase e frequência de corte ajustável para otimização perfeita de graves.",
+    "potencias": {
+      "4ohms": "800 Watts",
+      "8ohms": "480 Watts"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 180 Hz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "850/8 ohms"
+    },
+    "dimensoes": "Internas: 370x210x100mm / Externas: 400x240mm",
+    "peso": "10 kg",
+    "recursos": ["Saída de Linha", "Saída de Alto-Falante", "Controle de Volume", "Ajuste de Fase", "Frequência de Corte Ajustável"],
+    "garantia": "12 meses",
+    "imagem": "sb-800.jpg",
+    "popularidade": 76,
+    "dataLancamento": "2022-10-25",
+    "preco": 2190
+  },
+  {
+    "id": 49,
+    "slug": "slim-1000",
+    "nome": "SLIM 1000",
+    "linha": "SLIM 4 Ohms",
+    "descricao": "Amplificador de potência slim da linha SLIM 4 Ohms, com apenas 58mm de altura e 1000 Watts de potência total, ideal para instalações com espaço reduzido.",
+    "potencias": {
+      "4ohms": "1000 Watts (500W por canal)",
+      "8ohms": "600 Watts (300W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "730/8 ohms"
+    },
+    "dimensoes": "58x480x310mm",
+    "peso": "7,715 kg",
+    "recursos": ["Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "12 meses",
+    "imagem": "slim-1000.jpg",
+    "popularidade": 85,
+    "dataLancamento": "2022-11-20",
+    "preco": 2390
+  },
+  {
+    "id": 50,
+    "slug": "slim-300",
+    "nome": "SLIM 300",
+    "linha": "SLIM 4 Ohms",
+    "descricao": "Amplificador de potência slim da linha SLIM 4 Ohms, com apenas 58mm de altura e 300 Watts de potência total, ideal para instalações com espaço reduzido.",
+    "potencias": {
+      "4ohms": "300 Watts (150W por canal)",
+      "8ohms": "180 Watts (90W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "600/8 ohms"
+    },
+    "dimensoes": "58x480x310mm",
+    "peso": "5,8 kg",
+    "recursos": ["Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "12 meses",
+    "imagem": "slim-300.jpg",
+    "popularidade": 79,
+    "dataLancamento": "2022-10-15",
+    "preco": 1490
+  },
+  {
+    "id": 51,
+    "slug": "slim-400",
+    "nome": "SLIM 400",
+    "linha": "SLIM 4 Ohms",
+    "descricao": "Amplificador de potência slim da linha SLIM 4 Ohms, com apenas 58mm de altura e 400 Watts de potência total, ideal para instalações com espaço reduzido.",
+    "potencias": {
+      "4ohms": "400 Watts (200W por canal)",
+      "8ohms": "240 Watts (120W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "620/8 ohms"
+    },
+    "dimensoes": "58x480x310mm",
+    "peso": "6,2 kg",
+    "recursos": ["Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "12 meses",
+    "imagem": "slim-400.jpg",
+    "popularidade": 80,
+    "dataLancamento": "2022-10-25",
+    "preco": 1690
+  },
+  {
+    "id": 52,
+    "slug": "slim-600",
+    "nome": "SLIM 600",
+    "linha": "SLIM 4 Ohms",
+    "descricao": "Amplificador de potência slim da linha SLIM 4 Ohms, com apenas 58mm de altura e 600 Watts de potência total, ideal para instalações com espaço reduzido.",
+    "potencias": {
+      "4ohms": "600 Watts (300W por canal)",
+      "8ohms": "360 Watts (180W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "680/8 ohms"
+    },
+    "dimensoes": "58x480x310mm",
+    "peso": "7,150 kg",
+    "recursos": ["Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "12 meses",
+    "imagem": "slim-600.jpg",
+    "popularidade": 82,
+    "dataLancamento": "2022-11-05",
+    "preco": 1990
+  },
+  {
+    "id": 53,
+    "slug": "slim-800",
+    "nome": "SLIM 800",
+    "linha": "SLIM 4 Ohms",
+    "descricao": "Amplificador de potência slim da linha SLIM 4 Ohms, com apenas 58mm de altura e 800 Watts de potência total, ideal para instalações com espaço reduzido.",
+    "potencias": {
+      "4ohms": "800 Watts (400W por canal)",
+      "8ohms": "480 Watts (240W por canal)"
+    },
+    "especificacoes": {
+      "respostaFrequencia": "20 Hz – 20 kHz",
+      "distorcaoHarmonica": "0,05%",
+      "slewRate": "30 V/us",
+      "impedanciaEntrada": "20k ohms",
+      "sensibilidadeEntrada": "775 mV",
+      "alimentacao": "127V/230V",
+      "relacaoSinalRuido": "95 dB",
+      "fatorAmortecimento": "700/8 ohms"
+    },
+    "dimensoes": "58x480x310mm",
+    "peso": "7,5 kg",
+    "recursos": ["Entrada Balanceada", "Transformador Toroidal", "Proteção Térmica e Eletrônica"],
+    "garantia": "12 meses",
+    "imagem": "slim-800.jpg",
+    "popularidade": 83,
+    "dataLancamento": "2022-11-15",
+    "preco": 2190
+  }
+]
