@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "cd audioleader-site && npm run build",
+    "build": "cd audioleader-site && npm run build && cd .. && rm -rf .vercel/output && cp -r audioleader-site/.vercel/output .vercel/output",
     "postinstall": "cd audioleader-site && npm install"
   },
   "dependencies": {

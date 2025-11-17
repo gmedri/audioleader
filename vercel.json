@@ -1,4 +1,3 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "audioleader-site/.vercel/output/static"
+  "buildCommand": "npm run build"
 }
