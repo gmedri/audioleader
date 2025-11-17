@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build": "echo 'Static site - no build needed'"
+    "build": "cd audioleader-site && npm run build",
+    "postinstall": "cd audioleader-site && npm install"
   },
   "dependencies": {
     "@vercel/analytics": "^1.5.0",
