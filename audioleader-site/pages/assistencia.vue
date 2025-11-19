@@ -61,6 +61,12 @@
                   {{ assistencia.Telefone }}
                 </a>
               </div>
+              <div v-if="assistencia.Whatsapp" class="info-row">
+                <span class="label">WhatsApp:</span>
+                <a :href="`https://wa.me/${assistencia.Whatsapp.replace(/\D/g, '')}`" target="_blank" rel="noopener noreferrer">
+                  {{ assistencia.Whatsapp }}
+                </a>
+              </div>
             </div>
           </div>
 
