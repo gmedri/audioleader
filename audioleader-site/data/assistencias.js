@@ -2230,6 +2230,6 @@ export const assistenciasData = [
     Local: 'SOMAR ELETRÔNICA',
     Cidade: 'Nova Iguaçu',
     Email: 'somareletronica@gmail.com',
-    Telefone: '(21) 993274554'
+    Telefone: '(21) 2669-1462 - Whatsapp: (21) 9641-04891'
   }
 ]
