@@ -1652,6 +1652,13 @@ export const assistenciasData = [
     Telefone: '(79) 32158234 | (79) 99649020'
   },
   {
+    Uf: 'SE',
+    Local: 'MAIKO SOM',
+    Cidade: 'Própria',
+    Email: 'maikosom@hotmail.com',
+    Telefone: '(79) 99986-7792'
+  },
+  {
     Uf: 'AL',
     Local: 'JOSIVALDO NUNES DA PAZ',
     Cidade: 'Arapiraca',
