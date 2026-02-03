@@ -22,33 +22,23 @@
               <h1>{{ produto.nome }}</h1>
               <p class="produto-descricao">{{ produto.descricao }}</p>
 
-              <div class="produto-info-rapida">
-                <div class="info-item">
-                  <strong>Peso:</strong> {{ produto.peso }}
-                </div>
-                <div class="info-item">
-                  <strong>Dimensões:</strong> {{ produto.dimensoes }}
-                </div>
-                <div class="info-item">
-                  <strong>Garantia:</strong> {{ produto.garantia }}
+              <div class="produto-potencias-destaque">
+                <h3>Potências</h3>
+                <div class="potencias-grid">
+                  <div
+                    v-for="(potencia, impedancia) in produto.potencias"
+                    :key="impedancia"
+                    class="potencia-card"
+                  >
+                    <strong>{{ impedancia.toUpperCase() }}</strong>
+                    <span>{{ potencia }}</span>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
 
           <div class="produto-specs">
-            <h2>Potências</h2>
-            <div class="specs-grid">
-              <div
-                v-for="(potencia, impedancia) in produto.potencias"
-                :key="impedancia"
-                class="spec-card"
-              >
-                <strong>{{ impedancia.toUpperCase() }}</strong>
-                <span>{{ potencia }}</span>
-              </div>
-            </div>
-
             <h2>Especificações Técnicas</h2>
             <div class="specs-table">
               <div
@@ -58,6 +48,18 @@
               >
                 <div class="spec-label">{{ formatSpecLabel(spec) }}</div>
                 <div class="spec-value">{{ valor }}</div>
+              </div>
+              <div class="spec-row">
+                <div class="spec-label">Peso</div>
+                <div class="spec-value">{{ produto.peso }}</div>
+              </div>
+              <div class="spec-row">
+                <div class="spec-label">Dimensões</div>
+                <div class="spec-value">{{ produto.dimensoes }}</div>
+              </div>
+              <div class="spec-row">
+                <div class="spec-label">Garantia</div>
+                <div class="spec-value">{{ produto.garantia }}</div>
               </div>
             </div>
 
@@ -248,24 +250,45 @@ useHead(() => ({
   line-height: 1.6;
 }
 
-.produto-info-rapida {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
+.produto-potencias-destaque {
   padding: 1.5rem;
   background: #f8f9fa;
   border-radius: 12px;
 }
 
-.info-item {
-  display: flex;
-  gap: 0.5rem;
-  font-size: 0.95rem;
+.produto-potencias-destaque h3 {
+  font-size: 1.2rem;
+  color: #1a1a1a;
+  margin: 0 0 1rem 0;
+  font-weight: 700;
 }
 
-.info-item strong {
-  color: #333;
-  min-width: 100px;
+.potencias-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.75rem;
+}
+
+.potencia-card {
+  padding: 1rem;
+  background: white;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.potencia-card strong {
+  color: #1a1a1a;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.potencia-card span {
+  color: #666;
+  font-size: 0.9rem;
 }
 
 .produto-specs {
